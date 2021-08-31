@@ -9,7 +9,7 @@ to the students to enhance their speaking skills. To make it possible, we
 need a virtual meet platform in which people can communicate with each
 other and share their knowledge to get ready for their jobs. Communo which
 is a web application, that will generate virtual meets through google meet
-application. In general, People who are going to communicate in the google
+application and automatically divides the teams (Consists of 4 or 6 members). In general, People who are going to communicate in the google
 meet should know the meeting credentials beforehand. However communo doesn't bother about all of them. This platform will enable people from an organization to share their
 ideas and enhance their communication skills, without being worried about
 the meeting credentials. Our goal is to conduct virtual group discussions
